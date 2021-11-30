@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjana034
-- 👀 I’m interested in coding and devsec
-- 🌱 I’m currently learning python,php,js
-- 💞️ I’m looking to collaborate on mini rojects
+- 👀 I’m interested in debugging, coding, DevOpSec & Crypto
+- 🌱 I’m currently learning python, php, js, assembly AI & ML , Crypto & Etherium Eco System
+- 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me np03cs4a210059@heraldcollege.edu.np
 
 <!---
